@@ -7,3 +7,5 @@
 ![cambio](https://user-images.githubusercontent.com/38759769/90566747-a343c080-e16e-11ea-9ba9-8a7e0c3f71fd.JPG)
 ### se observa el ingreso de datos en Firebase
 ![basededatos](https://user-images.githubusercontent.com/38759769/90566832-c5d5d980-e16e-11ea-934c-fdc150863ad8.JPG)
+### Se puede editar, borrar y agregar nuevos datos
+![agregar](https://user-images.githubusercontent.com/38759769/90566910-e43bd500-e16e-11ea-9120-eaff4893e0ea.JPG)
